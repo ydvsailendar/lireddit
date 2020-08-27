@@ -1,0 +1,3 @@
+- npx tsconfig // import package for tsconfig
+- tsc -w // watch for file changes and creates a new dist file it is also faster than ts-node.
+- https://mikro-orm.io // micro-orm docs
